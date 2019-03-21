@@ -1,4 +1,4 @@
-# SCN_Pytorch
+# SMN_Pytorch
 
 the PyTorch version for Sequential Matching Network~
 <br>
